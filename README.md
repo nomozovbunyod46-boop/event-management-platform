@@ -99,3 +99,18 @@ event-management-platform/
 │   └── package.json
 │
 └── README.md
+
+# 1. Clone the repository
+git clone <repo-link>
+cd event-management-platform
+
+# 2. Start backend
+cd backend
+npm install
+cp .env.example .env
+npm run dev
+
+# 3. Start frontend (open a new terminal)
+cd ../frontend
+npm install
+npm run dev
