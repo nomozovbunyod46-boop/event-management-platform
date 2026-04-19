@@ -1,2 +1,2 @@
 # event-management-platform
-A web-based student management system built for portfolio and learning purposes.
+A modern full-stack event management platform for event creation, booking, and administration.
